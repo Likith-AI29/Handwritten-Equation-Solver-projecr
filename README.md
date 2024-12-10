@@ -1,1 +1,1 @@
-# Handwritten-Equation-Solver-projecr
+# Handwritten-Equation-Solver-project
